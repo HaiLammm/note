@@ -53,7 +53,7 @@ Mỗi thư mục chứa tài liệu hướng dẫn chi tiết cho từng công c
 - Tạo môi trường ảo để quản lý dependencies riêng biệt
 - Sử dụng requirements.txt để reproduce môi trường
 
-### 4. Công cụ开发
+### 4. Công cụ
 - **Alacritty**: Terminal emulator GPU-accelerated cho Linux
 - **Zed IDE**: IDE hiện đại với hỗ trợ AI cho lập trình
 - **Discord Bot**: Xây dựng chatbot với kiến trúc chuẩn
@@ -87,4 +87,4 @@ Nếu gặp vấn đề khi thực hiện theo hướng dẫn:
 ---
 
 **Last updated**: October 2025
-**Maintained by**: Your Name
+**Maintained by**: Luong Hai Lam
