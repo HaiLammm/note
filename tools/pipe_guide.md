@@ -1,5 +1,10 @@
 # Hướng dẫn chi tiết cài đặt và chạy dự án Piper TTS
 
+Cài đặt dự án : 
+```bash
+git clone https://github.com/OHF-Voice/piper1-gpl.git
+``` 
+
 Đây là hướng dẫn toàn diện để cài đặt và chạy dự án chuyển văn bản thành giọng nói (Text-to-Speech) Piper từ mã nguồn trên hệ thống của bạn.
 
 ## Yêu cầu tiên quyết
